@@ -1,0 +1,1 @@
+# Explique o que acontece fisicamente na estrutura quando um novo item é inserido no início
