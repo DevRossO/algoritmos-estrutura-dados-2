@@ -5,7 +5,7 @@ arr = [1, 4, 94, 32, 99, 410, 67, 69, 234, 27, 899, 515, 12, 8, 7, 99, 16, 15, 8
        11, 9, 4, 2, 23, 28, 51, 50, 75, 98, 82, 79, 71, 69, 13, 100, 3123, 324, 3123, 5435, 656, 312, 564, 974, 1223, 1233 ]
 procurado = 25
 
-# if procurado in arr: # Se a ideia é apenas saber se o 25 está presente essa é a maneira mais performática de se fazer.
+# if procurado in arr: # Se a ideia é apenas saber se o 25 está presente essa é a maneira mais performática de se fazer, mesmo assim é classificada como O(n)
 #     print(f"O número {procurado} está presente dentro do array")
 # else:
 #     print(f"Não foi encontrado o número {procurado} dentro do array")
